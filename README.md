@@ -14,3 +14,7 @@ I'm working on my NLP skills and think this will be a useful project for myself 
 - Notifications (email or push)
 - Motivation/positive feedback (sentiment analysis)
 - Testing and polishing
+
+## Journal
+### 9.29
+Set up some files and basic structures. Need to study SQL before I can proceed much more.
