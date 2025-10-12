@@ -18,3 +18,6 @@ I'm working on my NLP skills and think this will be a useful project for myself 
 ## Journal
 ### 9.29
 Set up some files and basic structures. Need to study SQL before I can proceed much more.
+
+### 10.12
+Got busy and demotivated and took many days off. Back at it now. Updated the chatbot a bit and made it usable. It can take someone's name and create a user. That user builds up a streak every time they check in by using the bot.
